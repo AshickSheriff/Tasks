@@ -1,0 +1,1 @@
+"ruby is cool".gsub("cool", "hard")
